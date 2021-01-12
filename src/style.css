@@ -5,18 +5,17 @@ body {
 
 .box {
   border: 1px solid #e95d49;
+  padding: 10px;
 }
 
 .box__blue {
   width: 328px;
   background-color: #308dc0;
-  padding: 10px;
   margin: 20px 0 40px 20px;
 }
 
 .box__orange {
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .box__gainsboro {
@@ -24,6 +23,5 @@ body {
 }
 
 .box__text {
-  padding: 10px;
   margin: 0;
 }
